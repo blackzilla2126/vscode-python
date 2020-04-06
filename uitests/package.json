@@ -11,7 +11,7 @@
         "lint": "tslint --project tsconfig.json"
     },
     "dependencies": {
-        "@types/chai": "^4.1.7",
+        "@types/chai": "^4.2.11",
         "@types/chai-arrays": "^1.0.2",
         "@types/chai-as-promised": "^7.1.0",
         "@types/cucumber": "^4.0.7",
