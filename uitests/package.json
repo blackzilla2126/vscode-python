@@ -22,7 +22,7 @@
         "@types/request": "^2.48.2",
         "@types/rimraf": "^2.0.2",
         "@types/tmp": "^0.1.0",
-        "@types/yargs": "^13.0.0",
+        "@types/yargs": "^13.0.8",
         "chai": "^4.2.0",
         "chai-array": "0.0.2",
         "chai-as-promised": "^7.1.1",
