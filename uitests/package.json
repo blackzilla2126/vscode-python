@@ -59,7 +59,7 @@
         "tslint-plugin-prettier": "^2.0.1",
         "typescript": "^3.6.3",
         "vinyl-fs": "^3.0.3",
-        "vsce": "^1.66.0",
+        "vsce": "^1.74.0",
         "vscode-uri": "^2.0.3",
         "winston": "^3.2.1",
         "winston-transport": "^4.3.0",
