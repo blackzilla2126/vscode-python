@@ -2914,7 +2914,7 @@
         "vscode-jsonrpc": "^4.0.0",
         "vscode-languageclient": "^5.2.1",
         "vscode-languageserver": "^5.2.1",
-        "vscode-languageserver-protocol": "^3.14.1",
+        "vscode-languageserver-protocol": "^3.15.3",
         "vsls": "^0.3.1291",
         "winreg": "^1.2.4",
         "winston": "^3.2.1",
