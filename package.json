@@ -2859,7 +2859,7 @@
         "webpack": "webpack"
     },
     "dependencies": {
-        "@jupyterlab/coreutils": "^3.1.0",
+        "@jupyterlab/coreutils": "^3.2.0",
         "@jupyterlab/services": "^4.2.0",
         "@koa/cors": "^3.0.0",
         "@loadable/component": "^5.12.0",
